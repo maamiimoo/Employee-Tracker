@@ -1,0 +1,1 @@
+//constructor that creates new SQL connection with configuration
