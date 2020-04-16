@@ -233,7 +233,7 @@ function addEmp(data) {
 
 
 //exiting application
-function end() {
+function Exit() {
   console.log("Goodbye!");
   connection.end();
   process.exit();
